@@ -1,0 +1,26 @@
+{
+  "name": "discord.ac",
+  "version": "0.1.0",
+  "description": "Topsite for discord servers.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo `No tests.`"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KBVE/Discord.ac.git"
+  },
+  "keywords": [
+    "Discord",
+    "Topsite"
+  ],
+  "author": "Ziggy9263 and KBVE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KBVE/Discord.ac/issues"
+  },
+  "homepage": "https://github.com/KBVE/Discord.ac#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
